@@ -1,0 +1,20 @@
+{
+  "name": "ds-algorithms",
+  "version": "1.0.0",
+  "description": "data structure and algorithms learned in uni course (+ other stuff learned on my own)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-md5:MalekD5/ds-algorithms.git"
+  },
+  "keywords": [],
+  "author": "MalekD5",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "jest-cli": "^26.6.3"
+  }
+}
