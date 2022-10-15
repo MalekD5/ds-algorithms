@@ -13,7 +13,7 @@ first off we wil devide the array to 2 halfs (left sub array, right subarray)
 
 the way we can do this is by finding the middle of the array index (known as **pivot**)
 
-index of pivot = $\dfrac{begin+end}{2}$ <br>
+index of pivot = $\dfrac{being+end}{2}$ <br>
 left sub array = `begin` -> `pivot` __(inclusive)__ <br>
 right sub array = `pivot+1` -> `end` _(doesn't include the pivot)_
 
